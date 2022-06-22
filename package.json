@@ -5,7 +5,7 @@
     "start": "node ."
   },
   "dependencies": {
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "ical-generator": "^1.6.0",
     "moment": "^2.24.0"
   }
